@@ -19,7 +19,7 @@
   <properties>
     <!-- instrumented libraries -->
     <!-- Camel 2.14+ requires Java 7+ -->
-    <camel.version>2.13.4</camel.version>
+    <camel.version>4.22.1</camel.version>
   </properties>
 
   <dependencies>
