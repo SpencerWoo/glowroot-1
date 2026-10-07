@@ -47,7 +47,7 @@
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>31.0.1-jre</version>
+      <version>32.0.0-jre</version>
     </dependency>
     <dependency>
       <groupId>io.grpc</groupId>
@@ -151,12 +151,12 @@
     <dependency>
       <groupId>ch.qos.logback</groupId>
       <artifactId>logback-classic</artifactId>
-      <version>1.4.5</version>
+      <version>1.2.13</version>
     </dependency>
     <dependency>
       <groupId>ch.qos.logback</groupId>
       <artifactId>logback-core</artifactId>
-      <version>1.4.5</version>
+      <version>1.5.34</version>
     </dependency>
     <dependency>
       <groupId>org.codehaus.janino</groupId>
